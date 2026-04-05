@@ -2,6 +2,7 @@
 title: Configure Explorer -> Notifications
 description: Configure Explorer, Start Menu and Taskbar notifications
 privilege: TrustedInstaller
+option: disable-notifications
 actions:
 
   # === Turn off feature advertisement balloon notifications - Enabled

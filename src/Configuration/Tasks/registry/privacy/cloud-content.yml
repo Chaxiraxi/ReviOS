@@ -2,6 +2,7 @@
 title: Configure Privacy -> Cloud Content
 description: Configure Cloud Content
 privilege: TrustedInstaller
+option: disable-cloud-content
 actions:
 
   # === Do not show Windows Tips - Enabled

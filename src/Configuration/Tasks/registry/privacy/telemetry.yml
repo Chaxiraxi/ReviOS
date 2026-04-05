@@ -2,6 +2,7 @@
 title: Configure Privacy -> Data Collection
 description: Configure Data Collection, Telemetry
 privilege: TrustedInstaller
+option: disable-telemetry
 actions:
 
   # === Allow Telemetry - Disabled

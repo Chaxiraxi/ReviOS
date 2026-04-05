@@ -2,6 +2,7 @@
 title: Configure Privacy -> Application Compatibility
 description: Configure Application Compatibility
 privilege: TrustedInstaller
+option: disable-app-compat
 actions:
 
   # === Turn off Application Compatibility Engine - Enabled

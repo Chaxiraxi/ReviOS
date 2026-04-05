@@ -2,6 +2,7 @@
 title: Configure Privacy -> Windows Error Reporting
 description: Configure Windows Error Reporting
 privilege: TrustedInstaller
+option: disable-wer
 actions:
 
   # === Automatically send memory dumps for OS-generated error reports - Disabled

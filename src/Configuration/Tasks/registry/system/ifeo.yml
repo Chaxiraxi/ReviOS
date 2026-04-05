@@ -2,6 +2,7 @@
 title: configure-ifeo
 description: configure-ifeo
 privilege: TrustedInstaller
+option: block-telemetry-exes
 actions:
 
   # === CEIP

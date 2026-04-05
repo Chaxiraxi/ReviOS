@@ -2,6 +2,7 @@
 title: Configure Updates -> Microsoft Store
 description: Configure Update settings for Microsoft Store
 privilege: TrustedInstaller
+option: disable-store-updates
 actions:
 
   # === Turn off Automatic Download and Install of updates - Disabled

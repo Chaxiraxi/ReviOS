@@ -2,6 +2,7 @@
 title: Configure Privacy -> Content Delivery Manager
 description: Configure Content Delivery Manager
 privilege: TrustedInstaller
+option: disable-cloud-content
 actions:
 
   # === Content Delivery - Off

@@ -2,6 +2,7 @@
 title: configure-privacy
 description: configure-privacy
 privilege: TrustedInstaller
+option: disable-telemetry
 actions:
 
 
