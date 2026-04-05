@@ -2,6 +2,7 @@
 title: Configure Crash Control
 description: Configure general settings for crash control
 privilege: TrustedInstaller
+option: configure-crash-control
 actions:
 
     # === (AutoReboot) Allow Windows to automatically restart after a system crash - Disabled

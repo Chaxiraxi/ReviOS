@@ -2,6 +2,7 @@
 title: Configure Explorer -> Taskbar
 description: Configure Taskbar
 privilege: TrustedInstaller
+option: configure-taskbar
 actions:
 
   # === Show Search Icon

@@ -2,6 +2,7 @@
 title: Configure Security -> BitLocker
 description: Configure BitLocker settings
 privilege: TrustedInstaller
+option: disable-bitlocker
 actions:
 
   # === Disable Automatic Device Encryption (BitLocker)

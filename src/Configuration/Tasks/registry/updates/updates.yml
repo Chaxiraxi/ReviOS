@@ -2,6 +2,7 @@
 title: Configure general updates settings
 description: Configure general updates settings
 privilege: TrustedInstaller
+option: pause-updates
 actions:
 
 
