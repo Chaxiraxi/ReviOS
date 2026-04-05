@@ -2,7 +2,7 @@
 title: Configure boot
 description: Configure boot settings
 privilege: TrustedInstaller
-option: disable-boot-check
+option: disable-boot-disk-check
 actions:
 
   # === Disable automatic disk checking on boot

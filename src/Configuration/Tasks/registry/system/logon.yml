@@ -2,7 +2,7 @@
 title: Configure System -> Logon
 description: Configure logon settings
 privilege: TrustedInstaller
-option: disable-logon-animations
+option: disable-startup-animations
 actions:
   
   # === Show first sign-in animation - Disabled
