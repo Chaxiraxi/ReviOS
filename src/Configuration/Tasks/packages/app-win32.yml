@@ -10,7 +10,7 @@ actions:
   - !taskKill: {name: "msedge", errorAction: Ignore, option: "remove-edge"}
   - !taskKill: {name: "MicrosoftEdge*", errorAction: Ignore, option: "remove-edge"}
   - !taskKill: {name: "setup", errorAction: Ignore, pathContains: "\\Edge", option: "remove-edge"}
-  
+
   - !powerShell:
     command: '.\EDGE.ps1 -Mode EdgeBrowser'
     exeDir: true

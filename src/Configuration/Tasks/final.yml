@@ -17,7 +17,7 @@ actions:
     args: "tweaks performance ntfs-8dot3-naming disable"
     wait: true
     runas: currentUserElevated
-    
+
 
   # Disable Memory Compression
   - !powerShell: 
